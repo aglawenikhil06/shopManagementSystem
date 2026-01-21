@@ -12,8 +12,8 @@ This system allows administrators to:
       - Delete student records when they are no longer required
 
 All operations are executed using JDBC APIs and SQL queries (INSERT, SELECT, UPDATE, DELETE), demonstrating how Java applications handle persistent data storage.
-**
-Key Highlights : **
+
+Key Highlights : 
 Uses JDBC for seamless Java–Database connectivity
 Implements SQL queries for all database operations
 Follows Object-Oriented Programming (OOP) principles
