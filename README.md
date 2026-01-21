@@ -1,4 +1,4 @@
-# Shop_Management_System
+# Student_Management_System
 
 The Student Management System is a console-based Java application designed to manage student information efficiently using CRUD operations (Create, Read, Update, Delete).
 This project integrates Java with a relational database using JDBC, allowing student data to be stored, retrieved, updated, and deleted permanently using SQL queries.
